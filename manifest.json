@@ -1,0 +1,9 @@
+{
+ "name":"Chiranjit's Calendar",
+ "version":"1.0",
+ "description":"The Best calendar UI",
+ "manifest_version": 2,
+ "browser_action": { 
+  "default_popup":"index.html"
+  }
+}
